@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #12372A;
+}
+
+.navbar {
+  color: #fff;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-right: 20px;
+}
+
+.navlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navlist li {
+  margin-right: 50px;
+}
+
+.navlink {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navlink:hover {
+  text-decoration: underline;
+}
+
+.headingcontainer{
+  display: flex;
+}
+
+h1{
+  color:#FBFADA;
+  font-family: 'Poppins';
+  font-style: italic;
+  font-size: 60px;
+  padding: 20px;
+  margin-left: 170px;
+
+}
+
+.phone{
+  border-radius: 12%;
+  margin-left: 100px;
+  
+
+
+}
