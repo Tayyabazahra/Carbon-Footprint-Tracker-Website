@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+.container {
+    display: flex;
+    height: 100vh; 
+}
+
+.A-div {
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+}
+
+.badge-2 {
+    font-size: 16px;
+    background-color: rgba(236, 222, 222, 0.658);
+    border-radius: 8px;
+    padding: 5px; 
+    margin-left: 10px; 
+}
+
+.A-head{
+    color: #12372A;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+#h2{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 0px;
+
+}
+
+.A-text {
+    margin-top: 20px;
+    color: #607274;
+    line-height: 22px;
+}
+
+.left {
+    flex: 1; /* Take up all available space */
+}
+
+.right {
+    flex: 1; /* Take up all available space */
+    display: flex;
+    justify-content: flex-end; /* Align to the right */
+    align-items: center; /* Center vertically */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.globe {
+    width: 460px;
+    height: 460px;
+    margin: 0px;
+    animation: spin 30s linear infinite;
+}
+
+
+.practice-cards-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    margin-left: 80px;
+  }
+  
+  .practice {
+    flex: 1;
+  }
+  
+
+  .Ahead2{
+    text-align: center;
+    align-self: center;
+
+  }
