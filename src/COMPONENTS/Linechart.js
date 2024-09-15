@@ -15,7 +15,7 @@ function Linechart() {
         chartInstance.current = new Chart(myChartRef, {
             type: 'line',
             data: {
-                labels: ['2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2014','2015', '2016', '2017', '2018','2019','2020','2021','2022','2023'],
+                labels: ['2004','','','','2008','','','','2012','','','','2016','','','','2020','','','','2023'], // Adjusted spacing
                 datasets: [
                     {
                         label: 'Carbon Emissions',
@@ -26,6 +26,24 @@ function Linechart() {
                         borderWidth: 2
                     }
                 ]
+            },
+            options: {
+                maintainAspectRatio: false, // Disable aspect ratio to control height
+                responsive: true,
+                scales: {
+                    x: {
+                        ticks: {
+                            autoSkip: false, // Prevents skipping of labels
+                            maxRotation: 0, // No rotation
+                            minRotation: 0 // No rotation
+                        }
+                    }
+                },
+                layout: {
+                    padding: {
+                        bottom: 0 // Adjust padding as needed
+                    }
+                }
             }
         });
 
@@ -37,13 +55,11 @@ function Linechart() {
     }, []);
 
     return (
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', margin: '0' }}>
-        <div style={{ width: '590px', height: '590px' }}>
-              
-            <canvas ref={chartRef} />
-
-        </div>  
-      </div>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', margin: '0' }}>
+            <div style={{ width: '700px', height: '400px' }}> {/* Adjust height as needed */}
+                <canvas ref={chartRef} />
+            </div>
+        </div>
     );
 }
 

@@ -6,10 +6,10 @@ export default function Practice(props) {
     <>
     <section>
     <div class="col-md-4 col-sm-6 col-xs-12">
-      <div class="card">
-        <div class="cover item-a">
+      <div class="flip">
+        <div className="cover item-a" style={{ backgroundImage: `url(${props.image})` }}>
           <h1>{props.heading}</h1>
-          <div class="card-back">
+          <div class="flip-back">
             <p>{props.paragraph}</p>
           </div>
         </div>

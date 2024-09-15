@@ -12,7 +12,7 @@ body section {
   height: 100vh;
 }
 
-.card {
+.flip {
   position: relative;
   height: 350px;
   width: 350px;
@@ -22,27 +22,27 @@ body section {
   border:none;
 }
 
-.card:hover .cover {
+.flip:hover .cover {
   transform: rotateX(0deg) rotateY(-180deg);
 }
 
-.card:hover .cover:before {
+.flip:hover .cover:before {
   transform: translateZ(30px);
 }
 
-.card:hover .cover:after {
+.flip:hover .cover:after {
   background-color: black;
 }
 
-.card:hover .cover h1 {
+.flip:hover .cover h1 {
   transform: translateZ(100px);
 }
 
-.card:hover .cover .price {
+.flip:hover .cover .price {
   transform: translateZ(60px);
 }
 
-.card:hover .cover a {
+.flip:hover .cover a {
   transform: translateZ(-60px) rotatey(-180deg);
 }
 
@@ -55,13 +55,14 @@ body section {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  
 }
 
 .cover:before {
   content: '';
   position: absolute;
-  border: 5px solid #12372A;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+ /* border: 5px solid #12372A;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);*/
   top: 20px;
   left: 20px;
   right: 20px;
@@ -84,9 +85,7 @@ body section {
   background: rgba(0, 0, 0, 0.4);
 }
 
-.cover.item-a {
-  background-image: url('https://images.unsplash.com/photo-1520412099551-62b6bafeb5bb?auto=format&fit=crop&w=600&q=80');
-}
+
 
 
 .cover h1 {
@@ -105,11 +104,11 @@ body section {
 }
 
 
-.card-back {
+.flip-back {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: #12372A;
+  background: #081c05;
   transform-style: preserve-3d;
   transition: ease all var(--transition-time);
   transform: translateZ(-1px);
@@ -118,7 +117,7 @@ body section {
   justify-content: center;
 }
 
-.card-back p {
+.flip-back p {
   transform-style: preserve-3d;
   transition: ease transform var(--transition-time), ease background 0.5s;
   transform: translateZ(-1px) rotatey(-180deg);
@@ -141,7 +140,7 @@ body section {
   padding-right: 5px;
 }
 
-.card-back a:hover {
+.flip-back a:hover {
   background-color: white;
   color: #0b0f08;
 }

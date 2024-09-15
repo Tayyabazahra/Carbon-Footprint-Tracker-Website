@@ -1,0 +1,245 @@
+
+
+.calcdiv {
+  background-color: #12372A;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.diff {
+  width: 800px; 
+  height: 400px;
+  padding: 70px; 
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5); 
+  border-radius: 10px; 
+  font-family: 'Poppins', sans-serif;
+  background-color: #FBFADA;
+  text-align: center;
+}
+
+.diff h1{
+  color: #12372A;
+}
+
+.diff h6{
+  color: #ADBC9F;
+}
+
+
+h1 {
+  font-weight: bold;
+}
+
+.gotobutton {
+  --c: #12372A;
+  box-shadow: 0 0 0 .1em inset var(--c);
+  --_g: linear-gradient(var(--c) 0 0) no-repeat;
+  background: 
+    var(--_g) calc(var(--_p, 0%) - 100%) 0%,
+    var(--_g) calc(200% - var(--_p, 0%)) 0%,
+    var(--_g) calc(var(--_p, 0%) - 100%) 100%,
+    var(--_g) calc(200% - var(--_p, 0%)) 100%;
+  background-size: 50.5% calc(var(--_p, 0%) / 2 + .5%);
+  outline-offset: .1em;
+  transition: background-size .4s, background-position 0s .4s;
+}
+
+.gotobutton:hover {
+  --_p: 100%;
+  transition: background-position .4s, background-size 0s;
+  color: white;
+}
+
+.gotobutton:active {
+  box-shadow: 0 0 9e9q inset #0009;
+  background-color: var(--c);
+  color: #fff;
+}
+
+.gotobutton {
+  font-family: 'Poppins';
+  font-size: 1.3rem;
+  cursor: pointer;
+  padding: .1em .5em;
+  border: none;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+/* Input box styles */
+.input {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 300px;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.input:focus {
+  border-color: #12372A;
+  outline: none;
+  box-shadow: 0 0 5px #12372A;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  margin-bottom: 0px;
+}
+
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-left: 580px;
+}
+
+.category-button {
+  font-family: 'Poppins';
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 10px;
+  background-color: #12372A;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+.category-button:hover {
+  background-color: #0f2e24;
+}
+
+.category-button.highlighted {
+  background-color: #4CAF50; 
+}
+
+.question-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  margin: 0% 10%;
+  background-color: #ADBC9F;
+  padding: 90px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.question-container.home-layout {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.question-container.transport-layout {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.question {
+  font-weight: 600;
+  font-size: 1.2em;
+  flex: 1;
+}
+
+.home-calculator .transport-calculator{
+  flex: 1;
+  padding: 20px;
+}
+
+.home-calculator-container {
+  width: 100%;
+  height: 300px;
+  font-family: 'Poppins';
+  color: #12372A;
+  font-weight: 400;
+  padding-left: 40px;
+}
+
+.transport-calculator-container {
+  width: 100%;
+  height: 280px;
+  font-family: 'Poppins';
+  color: #12372A;
+  font-weight: 400;
+}
+
+.lifestyle-calculator{
+  width: 50%;
+  height: 280px;
+  font-family: 'Poppins';
+  color: #12372A;
+  font-weight: 400;
+  margin-bottom:18px;
+}
+
+.transport-calculator h2{
+  text-align:center;
+  font-size:23px;
+}
+
+.home-calculator-container p{
+  text-align:center
+}
+
+.transport-calculator-container p{
+  text-align:center;
+  margin-top:0px;
+}
+.breakdownhead{
+  color: #12372A;
+  font-weight: 600;
+}
+
+.imgcontainer {
+  flex: 1;
+  text-align: right;
+}
+
+.imgcontainer img {
+  height: 200px;
+  width: 200px;
+  margin-top: 0px;
+  margin-left: 150px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.unit {
+  margin-top: 43px;
+  margin-left: 8px;
+  font-size: 15px;
+  color: grey;
+  font-weight: 100;
+  border: 1px solid grey;
+  padding: 4px;
+  border-radius: 3px;
+}
+
+.question-counter {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 12px;
+  color: gray;
+}

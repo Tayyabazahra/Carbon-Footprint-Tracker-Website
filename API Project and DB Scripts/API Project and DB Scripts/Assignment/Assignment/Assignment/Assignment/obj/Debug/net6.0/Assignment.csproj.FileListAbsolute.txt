@@ -1,0 +1,149 @@
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\faizan\Documents\Repositories\Personal\Assignment\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\inam_\Downloads\API Project and DB Scripts\API Project and DB Scripts\Assignment\Assignment\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll

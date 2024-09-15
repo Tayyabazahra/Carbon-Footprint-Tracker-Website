@@ -11,7 +11,7 @@
     align-items: center;
     min-height: 100vh;
     background: seagreen;
-    background: url('C:\Users\inam_\OneDrive\react\we-project\src\COMPONENTS\images\gl.png');
+    background: url('https://cdn.wallpapersafari.com/92/1/LU59b0.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -220,4 +220,3 @@
 .register-link p a:hover{
     text-decoration: underline;
 }
-

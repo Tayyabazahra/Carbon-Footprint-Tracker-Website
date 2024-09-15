@@ -1,0 +1,45 @@
+.heading {
+  color: #12372A;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: 'Calibri';
+  text-align: center;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.input {
+  width: 100%;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #218838;
+}

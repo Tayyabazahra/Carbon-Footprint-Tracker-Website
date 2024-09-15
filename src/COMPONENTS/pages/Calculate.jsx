@@ -1,15 +1,19 @@
 import React from 'react';
-
+import {Link } from 'react-router-dom';
+import '../calculate.css';
 
 function Calculate() {
   return (
-    <div>
-      <h1>READY TO MAKE A DIFFERENCE?</h1>
-      <button>Start Tracking</button>
+    <div className="calcdiv">
+    <div className='diff'>
+      <h1>READY TO <br/>MAKE A DIFFERENCE?</h1>
+      <h6>Understand your environmental impact and take steps to <br/> reduce your carbon footprint with our easy-to-use calculator.</h6>
+      <Link to="/Questions/QuestionForm">
+        <button className='gotobutton'>Start Tracking</button>
+      </Link>
+    </div>
     </div>
   );
 }
-
-
 
 export default Calculate;

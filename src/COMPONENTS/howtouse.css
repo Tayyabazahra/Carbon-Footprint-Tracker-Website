@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.htw-h1{
+    color: #12372A;
+    font-family: 'Poppins';
+    font-weight: bolder;
+}
+
+.container2 {
+    display: flex;
+    height: 100vh;
+    margin-top: 0; 
+    background-color: lightgrey;
+}
+
+.A-div2 {
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+}
+
+.badge-2 {
+    font-size: 16px;
+    background-color: rgba(236, 222, 222, 0.658);
+    border-radius: 8px;
+    padding: 5px; 
+    margin-left: 10px; 
+}
+
+.A-head2{
+    color: #12372A;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+
+.A-text2{
+    margin-top: 20px;
+    color: #607274;
+    line-height: 22px;
+    font-family: 'Poppins';
+}
+
+
+.left2 {
+    margin-left: 200px; 
+    margin-top: 140px;
+}
+
+.right2 {
+    margin-left: 100px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+}
+
+.phone {
+    height: 35em;
+}
